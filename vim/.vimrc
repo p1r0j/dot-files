@@ -17,7 +17,6 @@ set hlsearch
 
 " Readability.
 set relativenumber
-set nowrap
 set cursorline
 set cursorcolumn
 set scrolloff=10
